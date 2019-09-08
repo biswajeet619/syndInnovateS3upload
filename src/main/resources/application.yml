@@ -1,8 +1,0 @@
-amazonProperties:
-  endpointUrl: https://syndbucket.s3.amazonaws.com
-  accessKey: AKIA4SLN4DNVNICKZYPX
-  secretKey: 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
-  bucketName: syndbucket
-  
-server:
-  port: 9090
